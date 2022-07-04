@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin Panizza</h1>
-<h3 align="center">I'm a Full-Stack web developer located in Argentina. I have a passion for programming although I started studying web development in Soy Henry on 2022 , always liked to program. I started in the programming world 10 years ago doing game servers. Well-organized person, problem solver, with high attention to detail. Among my soft skills you will find: Proactivity, initiative, collaboration, curiosity and eager to learn.   Let's Make something special</h3>
-
+<h3 align="center">I'm a Full-Stack web developer located in Argentina. I have a passion for programming although I started studying web development in Soy Henry on 2022 , always liked to program. I started in the programming world 10 years ago doing game servers. Well-organized person, problem solver, with high attention to detail. Among my soft skills you will find: Proactivity, initiative, collaboration, curiosity and eager to learn.</h3>
+<h2 align="center>Let's Make something special</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/agustin-panizza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin-panizza" height="30" width="40" /></a>
