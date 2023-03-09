@@ -8,7 +8,7 @@
 <p align="left">Email: agustin_panizza@hotmail.com</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agus1510&show_icons=true&theme=tokyonight&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agus1510&repo=github-readme-stats" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
